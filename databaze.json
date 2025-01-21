@@ -1,0 +1,8 @@
+{
+    "student": [
+        {"jmeno": "Jan", "prijmeni": "Novak", "vek": 20},
+        {"jmeno": "Eva", "prijmeni": "Svobodova", "vek": 22},
+        {"jmeno": "Petr", "prijmeni": "Kral", "vek": 21},
+        {"jmeno": "Anna", "prijmeni": "Vesela", "vek": 23}
+    ]
+}
